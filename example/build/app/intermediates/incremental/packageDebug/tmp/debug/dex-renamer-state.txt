@@ -1,4 +1,0 @@
-#Tue Aug 10 14:55:41 IST 2021
-base.0=D\:\\flutter_package\\custom_grid_view\\example\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
